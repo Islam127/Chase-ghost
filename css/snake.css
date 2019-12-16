@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+}
+
+.blank{
+  background-color: blank;
+}
+
+.snake{
+  width: 20px;
+  height: 20px;
+  background: url('../img/player2mini.png') no-repeat center center;
+}
+
+.wall{
+  width: 20px;
+  height: 20px;
+  background: url('../img/firemini.png') no-repeat center center;
+}
+
+.fruit{
+  background: url('../img/ghostmini.png') no-repeat center center;
+}
